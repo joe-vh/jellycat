@@ -1,0 +1,9 @@
+# Flask Framework
+Flask==3.0.3
+
+# Flask Packages
+Flask-SQLAlchemy==3.1.1
+flask-cors==4.0.1
+
+# Automated tests
+pytest==8.2.1
